@@ -11,8 +11,8 @@ import step5Img from '../components/Screenshots/step5.jpg';
 export const defaultConfig: AppConfig = {
   appName: 'Sport Buddy',
   developerName: 'MoerveanDev',
-  groupUrl: 'https://groups.google.com/g/aplikacja-sportbuddy-wczesny-dostep',
-  appUrl: 'https://play.google.com/store/apps/details?id=com.moerveandev.sportbuddy',
+  groupUrl: 'https://groups.google.com/g/sportbuddies',
+  appUrl: 'https://play.google.com/store/apps/details?id=com.moervean.sportbuddy',
   ga4MeasurementId: 'G-PW28VWLML9',
   customStepImages: {
     happy: happyImg,
