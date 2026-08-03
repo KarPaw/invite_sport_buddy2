@@ -1,0 +1,6 @@
+{
+  "name": "App Tester Download Guide",
+  "description": "Step-by-step tutorial on joining Google Group closed testing and downloading early access apps in multiple languages with GA4 support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
